@@ -5,7 +5,7 @@
 | Name | Student Number |
 |---|---|
 | Simreen Hundal | 143557254 |
-| Alex Banica | Alex Banica |
+| Alex Banica | 107713265 |
 | Denisse Naula | 028221141 |
 | Abdullah Umut Oz | 112980263 |
 
