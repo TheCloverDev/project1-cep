@@ -1,2 +1,16 @@
-# project1-cep
-Project 1 presentation assignment for CEP
+# AI in software engineering
+
+
+**Names:** 
+
+**Youtube link:**
+
+
+## Summary
+
+
+## Roles
+-
+-
+-
+-
