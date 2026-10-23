@@ -19,8 +19,10 @@ Tech leaders have predicted that AI coding tools will soon replace human softwar
 
 ## Member Roles
 
-- **Simreen Hundal:** 
-- **Alex Banica:** 
-- **Denisse Naula:** 
-- **Abdullah Umut Oz:** 
+- **Simreen Hundal:** Researched the hype and claims around AI replacing developers and set up the GitHub repo (including folders, labels, issues).  
+- **Alex Banica:** Researched where AI falls short and drafted the README
+- **Denisse Naula:** Researched where AI coding tools help and created the script + slides. 
+- **Abdullah Umut Oz:** Researched code quality, security, and developer trust and contributed to video editing.
+
+All members also reviewed each other's work through pull requests and helped one another throughout the project.
 
